@@ -1,0 +1,15 @@
+img{
+    margin-left: 500px;
+    align-items: center;
+}
+
+button{
+    margin-left: 500px;
+    align-items: center;
+}
+
+body{
+    background-image: url(2x1_SuperMarioHub_image1600w.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
